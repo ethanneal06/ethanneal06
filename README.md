@@ -14,11 +14,13 @@
 
 ### 🧠 Sobre mí
 
-Ingeniero de software enfocado en la nube y en la calidad del código. Diseño y automatizo soluciones sobre **Microsoft Azure** y **Power Platform**, con especial interés en la seguridad del ciclo de vida de desarrollo: análisis estático, deuda técnica y controles de calidad en pipelines con **SonarQube**.
+Ingeniero en Computación con más de ocho años en administración de infraestructura y nube. Hoy trabajo en arquitecturas **híbridas y multi-nube** sobre **Microsoft Azure** y **Google Cloud**: cómputo, contenedores, almacenamiento, identidad y control de accesos.
 
-Me gusta trabajar con criterios de **Zero Trust**: menos confianza por defecto, más verificación explícita, escaneo de secretos y dependencias, y hallazgos con dueño y fecha de remediación.
+Mi especialidad es **integrar y automatizar**: orquestación de procesos de negocio con Application Integration y Apigee, funciones y servicios en Cloud Run, **Logic Apps** y desarrollo **low-code** con Power Platform (Power Apps, Power Automate). Cuando algo falla en producción, el diagnóstico empieza por **SQL**.
 
-Del lado personal construyo **servidores MCP** que conectan agentes de IA con herramientas reales, y aplicaciones nativas en **Swift/SwiftUI** para iOS. Ahí es donde publico: en estos repos.
+En calidad y seguridad del software pongo las reglas antes de que el código llegue a main: análisis estático (**SAST**) con **SonarQube** como estándar de calidad, criterios de **Zero Trust**, cifrado de disco, monitoreo proactivo y gobernanza medida en **KPIs y SLAs**.
+
+Del lado personal construyo **servidores MCP** que conectan agentes de IA con herramientas reales y aplicaciones nativas en **Swift/SwiftUI** para iOS. Eso es lo que publico aquí.
 
 ---
 
@@ -28,13 +30,16 @@ Del lado personal construyo **servidores MCP** que conectan agentes de IA con he
 
 #### ⚙️ Tecnologías principales
 
-[![Tecnologías principales](https://skillicons.dev/icons?i=azure,python,powershell,bash,docker,linux,git,github,gitlab,mysql,postgres,sqlite,js,ts,swift,vscode&perline=8)](https://skillicons.dev)
+[![Tecnologías principales](https://skillicons.dev/icons?i=azure,gcp,python,powershell,bash,docker,linux,git,github,mysql,postgres,sqlite,js,ts,swift,vscode&perline=8)](https://skillicons.dev)
 
 <br>
 
 #### 🧰 Frameworks y herramientas
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Apigee](https://img.shields.io/badge/Apigee-FF6D00?style=flat-square&logo=apigee&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=flat-square&logo=powerapps&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -50,6 +55,24 @@ Del lado personal construyo **servidores MCP** que conectan agentes de IA con he
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+</div>
+
+---
+
+### 🎓 Certificaciones
+
+<div align="center">
+
+![Azure Administrator](https://img.shields.io/badge/Azure%20Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Security](https://img.shields.io/badge/Azure%20Security%20Technologies-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Identity and Access](https://img.shields.io/badge/Identity%20%26%20Access%20Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure%20AI%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Power Platform Solution Architect](https://img.shields.io/badge/Power%20Platform%20Solution%20Architect-742774?style=flat-square&logo=powerapps&logoColor=white)
+![Power Platform Developer](https://img.shields.io/badge/Power%20Platform%20Developer-742774?style=flat-square&logo=powerapps&logoColor=white)
+![Power BI Data Analyst](https://img.shields.io/badge/Power%20BI%20Data%20Analyst-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![M365 Administrator](https://img.shields.io/badge/Microsoft%20365%20Administrator-D83B01?style=flat-square&logo=microsoft&logoColor=white)
+![M365 Fundamentals](https://img.shields.io/badge/Microsoft%20365%20Fundamentals-D83B01?style=flat-square&logo=microsoft&logoColor=white)
 
 </div>
 
