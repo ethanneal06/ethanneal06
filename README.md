@@ -84,6 +84,8 @@ Todo lo que publico aquí es personal. Los proyectos de clientes no se documenta
 
 <a href="https://github.com/ethanneal06" target="_blank"><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" width="40"></a>
 &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ethan-l%C3%B3pez-5123801a2/" target="_blank"><img src="https://img.icons8.com/ios-filled/48/ffffff/linkedin.png" alt="LinkedIn" width="40"></a>
+&nbsp;&nbsp;
 <a href="https://te-moxtli.com" target="_blank"><img src="https://img.icons8.com/ios-filled/48/ffffff/domain.png" alt="te-moxtli.com" width="40"></a>
 
 </div>
