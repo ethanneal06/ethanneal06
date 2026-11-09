@@ -2,7 +2,7 @@
 
 # 👨‍💻 Ethan
 
-### ☁️ Cloud & DevSecOps · 🤖 Power Platform · 🛡️ Calidad y Seguridad de Código
+### ☁️ Integración multi-nube · 🤖 IA generativa · 🛡️ DevSecOps
 
 [![Visitas al perfil](https://komarev.com/ghpvc/?username=ethanneal06&label=Visitas&color=0078D4&style=flat-square)](https://github.com/ethanneal06)
 [![Seguidores](https://img.shields.io/github/followers/ethanneal06?label=Seguidores&style=flat-square&color=0078D4)](https://github.com/ethanneal06?tab=followers)
@@ -14,13 +14,13 @@
 
 ### 🧠 Sobre mí
 
-Ingeniero en Computación con más de ocho años en administración de infraestructura y nube. Hoy trabajo en arquitecturas **híbridas y multi-nube** sobre **Microsoft Azure** y **Google Cloud**: cómputo, contenedores, almacenamiento, identidad y control de accesos.
+Creo que la tecnología no se privatiza, se comparte. Como Ingeniero en Computación y usuario de Open Source, esa idea guía cada arquitectura que diseño.
 
-Mi especialidad es **integrar y automatizar**: orquestación de procesos de negocio con Application Integration y Apigee, funciones y servicios en Cloud Run, **Logic Apps** y desarrollo **low-code** con Power Platform (Power Apps, Power Automate). Cuando algo falla en producción, el diagnóstico empieza por **SQL**.
+Mi carrera va de soporte técnico regional para multinacionales a la integración de aplicaciones, pasando por administración de sistemas con 99.9% de disponibilidad y migraciones on-premise a la nube (~200 usuarios, ~500 GB). Hoy diseño **arquitecturas de integración multi-nube** sobre **Google Cloud** (Application Integration, Apigee, Cloud Functions, Cloud Run, BigQuery, Cloud SQL), **SAP BTP** y **Azure**, con decisiones sustentadas en **SLAs, SLIs, KPIs, FinOps y DevSecOps**.
 
-En calidad y seguridad del software pongo las reglas antes de que el código llegue a main: análisis estático (**SAST**) con **SonarQube** como estándar de calidad, criterios de **Zero Trust**, cifrado de disco, monitoreo proactivo y gobernanza medida en **KPIs y SLAs**.
+En IA generativa llevo **agentes autónomos, RAG y servidores MCP sobre Vertex AI** (LangChain, ADK): optimizo consumo de tokens y despliego modelos on-premise buscando **soberanía digital**.
 
-Del lado personal construyo **servidores MCP** que conectan agentes de IA con herramientas reales y aplicaciones nativas en **Swift/SwiftUI** para iOS. Eso es lo que publico aquí.
+Y antes de que el código llegue a main: **SonarQube/SAST** como estándar de calidad y seguridad, **ISO 9001/27001**, Zero Trust y gobernanza medida. Lo personal (MCP, Swift/iOS, Rust) está en los repos de abajo.
 
 ---
 
@@ -30,7 +30,7 @@ Del lado personal construyo **servidores MCP** que conectan agentes de IA con he
 
 #### ⚙️ Tecnologías principales
 
-[![Tecnologías principales](https://skillicons.dev/icons?i=azure,gcp,python,powershell,bash,docker,linux,git,github,mysql,postgres,sqlite,js,ts,swift,vscode&perline=8)](https://skillicons.dev)
+[![Tecnologías principales](https://skillicons.dev/icons?i=azure,gcp,python,bash,docker,linux,git,github,postgres,mysql,sqlite,js,ts,swift,rust,vscode&perline=8)](https://skillicons.dev)
 
 <br>
 
@@ -38,6 +38,12 @@ Del lado personal construyo **servidores MCP** que conectan agentes de IA con he
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Apigee](https://img.shields.io/badge/Apigee-FF6D00?style=flat-square&logo=apigee&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
